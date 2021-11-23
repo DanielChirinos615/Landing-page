@@ -1,0 +1,6 @@
+Feature: US01-Como usuario quiero que la plataforma web esté organizada para que sea sencilla de usar.
+
+Scenario 01: El usuario solicita que la página web esté organizada
+CA01 - Dado que el usuario se encuentra navegando por las secciones del sitio web.
+Cuando ingrese a la sección tips y consejos, podrá ver lo que busca.
+Entonces cumplirá con la organización.
