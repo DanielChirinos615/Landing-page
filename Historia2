@@ -1,0 +1,6 @@
+Feature: US13-Como usuario quiero el login tenga una opción para recordar cuenta y no tener que ingresar mi cuenta cada vez que uso la web desde mi ordenador.
+
+Scenario 01: En el login el usuario al iniciar sesión podrá activar el botón de “recordar cuenta” para no tener que colocar siempre sus credenciales a la hora de ingresar desde sus dispositivos.
+CA01 - Dado que el usuario quiere tener la sesión abierta siempre 
+cuando active el botón en el login 
+entonces ya solo necesitará poner una sola vez sus credenciales y la página recordará su cuenta para próximas veces que quiera ingresar.
