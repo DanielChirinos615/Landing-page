@@ -1,0 +1,6 @@
+Feature: US09-Como usuario quiero el login tenga una opción para recordar cuenta y no tener que ingresar mi cuenta cada vez que uso la web desde mi ordenador.
+
+Scenario 01: El usuario desea traducir la página web a otro distinto al español
+CA01 - Dado que el usuario está en el inicio
+Cuando presione en el botón “Con la bandera del idioma” podrá elegir entre diferentes idiomas
+entonces la página web cambiará al idioma que seleccionó. 
