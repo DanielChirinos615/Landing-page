@@ -1,0 +1,7 @@
+Feature: Como usuario quiero tener un botón “Agendar entrenamiento” con entrenadores particulares para organizar mejor mis entrenamientos.
+
+ 
+Scenario 01: En la barra de tareas se encontrará una sección para tips y consejos que ayudarán al usuario a mejorar aspectos de la natación principalmente y sobre el proceso de bajar de peso.
+CA01 - Dado que el usuario quiera mejorar en la natación 
+cuando ingrese a la sección tips y consejos 
+entonces encontrará información necesaria para cumplir su objetivo.
